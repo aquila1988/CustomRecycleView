@@ -1,0 +1,2 @@
+# CustomRecycleView
+可直接在XML布局中定义RecycleView的列表样式
